@@ -1,0 +1,31 @@
+#ifndef RESOURCE_RC_INCLUDED
+#define RESOURCE_RC_INCLUDED
+
+MAIN ICON  "unprotect.ico"
+
+#endif // RESOURCE_RC_INCLUDED
+
+1 VERSIONINFO
+FILEVERSION 0,1,2,2
+PRODUCTVERSION 0,1,2,2
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "DEADBEEF"
+        BEGIN
+            VALUE "CompanyName", "Unprotect Project"
+            VALUE "FileVersion", "0,2"
+            VALUE "FileDescription", "Protect your system by emu"
+            VALUE "InternalName", "RocProtect"
+            VALUE "LegalCopyright", ""
+            VALUE "LegalTrademarks", ""
+            VALUE "OriginalFilename", ""
+            VALUE "ProductName", "RocProtect"
+            VALUE "ProductVersion", ""
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x0409, 1252
+    END
+END

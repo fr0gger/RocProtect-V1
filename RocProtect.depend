@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1479727398 source:c:\users\rever\desktop\cproject\rocprotect\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	"RunProcess.h"
+	"RunRegistry.h"
+	"RunFile.h"
+	"RunDirectory.h"
+	"RunMac.h"
+
+1479228244 c:\users\rever\desktop\cproject\rocprotect\runprocess.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1479728169 c:\users\rever\desktop\cproject\rocprotect\runregistry.h
+	<Windows.h>
+	<stdio.h>
+	<iostream>
+
+1479220720 c:\users\rever\desktop\cproject\rocprotect\runfile.h
+	<windows.h>
+	<stdio.h>
+	<malloc.h>
+	<stdlib.h>
+	<WCHAR.h>
+
+1479137532 source:c:\users\rever\desktop\cproject\rocprotect\ressources.rc
+
+1479225288 c:\users\rever\desktop\cproject\rocprotect\rundirectory.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<WCHAR.h>
+	<winbase.h>
+	<direct.h>
+
+1479226122 c:\users\rever\desktop\cproject\rocprotect\runmac.h
+	<stdio.h>
+	<Windows.h>
+	<Iphlpapi.h>
+	<Assert.h>
+
