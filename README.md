@@ -1,6 +1,6 @@
 # RocProtect 
 
-Malware are able sometimes to detect a virtual environment to avoid analysis and detection. RocProtect is a quick and dirty POC to emulate Virtual artifacts into a physical machine.
+Malware are able sometimes to detect a virtual environment to avoid analysis and detection. RocProtect is a quick and dirty POC to simulate Virtual artifacts into a physical machine.
 
 It will create the following on a machine:
 * Fake registry keys of Vmware/VirtualBox/Qemu
